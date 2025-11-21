@@ -25,3 +25,9 @@ Sistema de recomendación de películas desarrollado en Python y C++.
 3. Ejecuta:
    ```bash
    python gui.py
+
+## 👥 Autores 
+
+- Nicolas Caucali Junco
+- Sebastian Clavijo Tocasuchyl
+- Luis Enrique Rodriguez Vargas
